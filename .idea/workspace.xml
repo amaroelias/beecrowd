@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="332f712e-36bc-4420-9d85-648b19d48fa9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2zhFWaEg7OMvsY09NWkJcXDw0nC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Area.executor": "Run",
+    "Application.Calculo.executor": "Run",
+    "Application.Consumo.executor": "Run",
+    "Application.Diferenca.executor": "Run",
+    "Application.DistanciaPontos.executor": "Run",
+    "Application.Esfera.executor": "Run",
+    "Application.Maior.executor": "Run",
+    "Application.Media.executor": "Run",
+    "Application.Media2.executor": "Run",
+    "Application.Salario.executor": "Run",
+    "Application.areaRaio.executor": "Run",
+    "Application.helloWorld.executor": "Run",
+    "Application.produto.executor": "Run",
+    "Application.soma.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/user/Developer/java/beecrowd",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/user/Developer/beecrowd/javaBeecrowd/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.DistanciaPontos">
+    <configuration name="Consumo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Consumo" />
+      <module name="javaBeecrowd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistanciaPontos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DistanciaPontos" />
+      <module name="javaBeecrowd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Esfera" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Esfera" />
+      <module name="javaBeecrowd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maior" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Maior" />
+      <module name="javaBeecrowd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Salario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Salario" />
+      <module name="javaBeecrowd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DistanciaPontos" />
+        <item itemvalue="Application.Consumo" />
+        <item itemvalue="Application.Salario" />
+        <item itemvalue="Application.Maior" />
+        <item itemvalue="Application.Esfera" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="332f712e-36bc-4420-9d85-648b19d48fa9" name="Changes" comment="" />
+      <created>1752175430891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752175430891</updated>
+      <workItem from="1752175432023" duration="4219000" />
+      <workItem from="1752180891467" duration="3251000" />
+      <workItem from="1752195057915" duration="2338000" />
+      <workItem from="1752264255600" duration="4028000" />
+      <workItem from="1752345639364" duration="1193000" />
+      <workItem from="1752366584272" duration="142000" />
+      <workItem from="1752366740251" duration="112000" />
+      <workItem from="1752366925521" duration="1460000" />
+      <workItem from="1752374835201" duration="12000" />
+      <workItem from="1752448599978" duration="6000" />
+      <workItem from="1752448646017" duration="4486000" />
+      <workItem from="1753409623082" duration="455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
